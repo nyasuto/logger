@@ -22,5 +22,3 @@ func main() {
 
 
 one more testing rebase merge
-
-one more testing rebase merge
