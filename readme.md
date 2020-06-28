@@ -20,7 +20,6 @@ func main() {
 }
 ```
 
-testing rebase merge
 
 one more testing rebase merge
 
