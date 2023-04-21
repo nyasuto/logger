@@ -12,7 +12,7 @@ import (
 
 var formatResult = ""
 
-func dummyPrintf(format string, args ...interface{}) {
+func dummyPrintf(format string, args ...any) {
 	formatResult = fmt.Sprintf(format, args...)
 }
 

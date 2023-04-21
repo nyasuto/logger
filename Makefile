@@ -1,2 +1,6 @@
-build:
-	go run cmd/sample.go
+
+build: test
+	go build cmd/sample.go
+
+test:
+	go test -v ./...
